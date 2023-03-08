@@ -37,6 +37,9 @@ a {
     color: var(--text-color);
     text-decoration: none;
 }
+.visually-hidden {
+    display: none;
+}
 .section-tagline {
     color: var(--color-primary);
 }
