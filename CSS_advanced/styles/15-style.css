@@ -202,6 +202,9 @@ a:hover {
 a:active {
     background-color: var(--color-light-grey);
 }
+.visually-hidden {
+    display: none;
+}
 .section-header {
     text-align: var(--section-header-align);
 }
