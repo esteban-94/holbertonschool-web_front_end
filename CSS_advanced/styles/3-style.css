@@ -15,6 +15,9 @@ body {
 a {
     color: var(--text-color);
 }
+.visually-hidden {
+    display: none;
+}
 .section-tagline {
     color: var(--color-primary);
 }
