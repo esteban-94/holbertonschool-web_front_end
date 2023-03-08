@@ -225,6 +225,9 @@ a:hover {
 a:active {
     background-color: var(--color-light-grey);
 }
+.visually-hidden {
+    display: none;
+}
 .button {
     display: var(--button-display);
     padding: var(--button-padding);
