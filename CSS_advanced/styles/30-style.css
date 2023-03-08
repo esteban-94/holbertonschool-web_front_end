@@ -244,6 +244,9 @@ a:active {
     text-decoration: var(--button-hover-text-decoration);
     background-color: var(--button-hover-background);
 }
+.visually-hidden {
+    display: none;
+}
 .section {
     padding: var(--section-padding);
 }
